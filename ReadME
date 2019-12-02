@@ -1,0 +1,20 @@
+Local url- http://127.0.0.1:8000/item
+
+Frontend- used bootstrap
+Backend- laravel framework
+
+
+Files Location: 
+
+Database Config Files- 
+new_project/.env
+/new_project/config/database.php
+      
+
+Model- new_project/app/Item.php
+Controller- Item - new_project/app/Http/Controllers/ItemController.php
+view file- new_project/resources/views/item.blade.php
+
+Route Paths- new_project/routes/web.php
+
+Db Migrations File- new_project/database/migrations/2019_12_01_054042_create_items_table.php
