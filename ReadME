@@ -1,10 +1,3 @@
-
-
-I have completed the challenge and uploaded my project on Github, please find the details below.
-
-URL for my github is: https://github.com/mansavvyvirdi/NRIproject
-
-
 I made my project on Mac Book using LARAVEL framework and MySQL Database.
 For Frontend, I used Bootstrap.
 File PathsLocal url- http://127.0.0.1:8000/item
@@ -13,4 +6,3 @@ Model File - new_project/app/Item.php
 Controller- Item - new_project/app/Http/Controllers/ItemController.php  
 View file- new_project/resources/views/item.blade.php  
 
-Database File Path is:https://github.com/mansavvyvirdi/NRIproject/blob/master/test.sql
